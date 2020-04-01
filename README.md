@@ -1,4 +1,4 @@
-# Extracting-Links-in-HTML-Using-BeautifulSoup
+# Extracting-Links-From-Websites-Using-BeautifulSoup
 
 •	Sample problem: Start at http://py4e-data.dr-chuck.net/known_by_Fikret.html
 
